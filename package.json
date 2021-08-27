@@ -1,0 +1,5 @@
+{
+  "name": "bare-postgres",
+  "private": true,
+  "dependencies": {}
+}
